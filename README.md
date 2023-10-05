@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tejas Bachute</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fgifdb.com%2Fimages%2Fhigh%2Fanimated-man-computer-coding-nae6mec378lsg1i3.gif&tbnid=TbjqwyavGsyaGM&vet=12ahUKEwiq28D919-BAxWncWwGHbZgDfIQMygNegQIARBu..i&imgrefurl=https%3A%2F%2Fgifdb.com%2Fgif%2Fanimated-man-computer-coding-nae6mec378lsg1i3.html&docid=ODC0DQJJHFyTKM&w=667&h=500&q=animated%20coding%20images&ved=2ahUKEwiq28D919-BAxWncWwGHbZgDfIQMygNegQIARBu">
-
+<img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 667px; height: 500px; margin: 0px; width: 667px;" alt="Animated Man Computer Coding GIF | GIFDB.com" jsname="kn3ccd" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejass21&label=Profile%20views&color=0e75b6&style=flat" alt="tejass21" /> </p>
 
 <p align="left"> <a href="https://twitter.com/tejass21" target="blank"><img src="https://img.shields.io/twitter/follow/tejass21?logo=twitter&style=for-the-badge" alt="tejass21" /></a> </p>

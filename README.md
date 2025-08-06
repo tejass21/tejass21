@@ -1,78 +1,78 @@
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Tejas Bachute</h1>
+<!-- Hero Header -->
+<h1 align="center">
+  Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
+  I'm <span style="color:#9146FF;">Tejas Bachute</span>
+</h1>
+
+<h3 align="center">🚀 Full Stack Developer | 🔥 Indie Hacker | 🧠 AI Builder</h3>
 
 <p align="center">
   <a href="https://portfolio-tejass21.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-9146FF?style=for-the-badge&logo=appveyor&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-%239146FF.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/tejasbachute/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/tejaxs21" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/tejaxs.21" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🙋‍♂️ About Me
+## 👨‍💻 About Me
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="260px" align="right" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" height="240px" />
 
-- 🚀 Full Stack Developer | Founder of **MriloAI**
-- 💻 Currently working on **AI Dev Tools**, **Productivity Software**, and **Full-Stack SaaS**
-- 🌱 Learning: Advanced MERN Stack, AI APIs (Gemini), Systems Design
-- 💬 Ask me about `React`, `Supabase`, `TypeScript`, or `AI Coding Tools`
-- 🧠 Life Mantra: *Learn it. Build it. Ship it.*
-- ⚽ Fun Fact: I play football to debug my thoughts ⚽
-- 🔗 Portfolio: [portfolio-tejass21.vercel.app](https://portfolio-tejass21.vercel.app)
+- 🧑‍💻 I’m Tejas, a passionate Full Stack Developer based in **Solapur, India 🇮🇳**
+- ⚙️ Founder of **MriloAI** – AI tools for developers & productivity
+- 🧠 Learning deep AI + DevTool integrations
+- 🧰 Building SaaS products with **MERN**, **Supabase**, and **Gemini API**
+- 💬 Ask me about React, TypeScript, Node.js, Supabase, or Product Building
+- 🎮 Gamer by heart | Debugs bugs like headshots in PUBG 💥
 
 ---
 
-## 🔧 Tech Stack & Tools
+## 🚀 Tech Stack & Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,javascript,tailwind,redux,html,css,mongodb,express,git,github,vscode,vercel,postman" />
 </p>
 
 ---
 
-## 🧠 Currently Working On
+## 🛠️ Projects I'm Crafting
 
-- 🔨 **Mrilo IDE** – An AI-Powered Code Editor using Gemini API
-- ⚙️ **AppiloAI** – Full-stack AI Dev Tool with live code preview, terminal, and chat
-- 🔮 **Martin** – A realistic Forex candle predictor
+| 🚧 Project | 🔍 Description |
+|-----------|----------------|
+| 🎨 **Mrilo IDE** | AI-native code editor with inline suggestions, autocomplete & debugging |
+| 💡 **Appilo AI** | Build, debug & deploy apps with a full-stack AI DevTool |
+| 📈 **Martin** | AI-powered candle predictor for Forex with realistic accuracy |
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejass21&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tejass21&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tejass21&show_icons=true&theme=tokyonight&hide_title=false&include_all_commits=true" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=tejass21&theme=tokyonight" width="49%" />
 </p>
 
 ---
 
-## 📬 Let’s Connect & Collaborate
+## 📣 Let's Connect
 
-Got an idea, collaboration, or just want to say hi?  
-Reach me via [LinkedIn](https://www.linkedin.com/in/tejasbachute) or [portfolio](https://portfolio-tejass21.vercel.app).
+<p align="center">
+  <a href="mailto:tejass21official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://portfolio-tejass21.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/My Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+</p>
 
 ---
 
-_⚡ Built with passion & late-night debugging sessions!_
+<h4 align="center">✨ Dream it. Code it. Ship it. ✨</h4>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=9146FF&center=true&width=435&lines=Always+Building+Something+New...;Let%27s+Collaborate+%F0%9F%A4%9D;Fueled+By+Code+and+Coffee+%E2%98%95%EF%B8%8F" />
+</p>

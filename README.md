@@ -4,7 +4,7 @@
   I'm <span style="color:#9146FF;">Tejas Bachute</span>
 </h1>
 
-<h3 align="center">🚀 Full Stack Developer | 🔥 Indie Hacker | 🧠 AI Builder</h3>
+<h3 align="center">🚀 Full Stack Developer | 🧠 AI Builder</h3>
 
 <p align="center">
   <a href="https://portfolio-tejass21.vercel.app/" target="_blank">

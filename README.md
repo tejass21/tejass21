@@ -54,15 +54,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejass21&show_icons=true&theme=tokyonight&hide_title=false&include_all_commits=true" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=tejass21&theme=tokyonight" width="49%" />
-</p>
-
----
-
 ## 📣 Let's Connect
 
 <p align="center">

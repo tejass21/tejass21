@@ -1,20 +1,22 @@
-<h1 align="center">✨ Hey, I'm <a href="https://github.com/tejass21">Tejas Bachute</a> 👋</h1>
+<!-- Profile README for Tejas Bachute (@tejass21) -->
+
+<h1 align="center">✨ Hey, I'm <a href="https://github.com/tejass21">Tejas</a> 👋</h1>
 
 <h3 align="center">🚀 Software Engineer | 💡 AI Builder | 🧠 Founder of MriloAI & DesierAI</h3>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tejass21&theme=radical" alt="Tejas Bachute Profile Summary" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF7E1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+💻;Building+AI+Tools+that+Empower+Developers+⚡;Founder+of+MriloAI+and+DesierAI+🚀;Lifelong+Learner+🌱" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 💫 About Me  
-- 🧠 Full Stack Developer (**React, TypeScript, Node.js, Supabase**)  
+- 🧠 Full Stack Developer (React + TypeScript + Node + Supabase)  
 - 🚀 Founder of **[MriloAI](#)** and **[DesierAI](https://desier.in)**  
-- 🧩 Building **AppiloAI** — AI-powered coding platform with terminal + live preview  
-- 💬 Passionate about **AI tools, BrowserFS, Gemini API, Electron**  
+- 🧩 Building **AppiloAI** — an AI-powered coding platform with terminal + live preview  
+- 💬 Love working with **AI APIs, BrowserFS, Gemini, and modern React stacks**  
 - 🎓 BCA Graduate | Former **Software Engineer at Databutton**  
-- 🏆 Created & sold **Health Plus Software Solutions** to 100+ hospitals  
+- 🏆 Built & sold **Health Plus Software Solutions** to 100+ hospitals  
 
 ---
 
@@ -26,26 +28,26 @@
 
 ---
 
-### ⚙️ Featured Projects  
+### ⚙️ Projects  
 
 #### 🧠 [DesierAI](https://desier.in)
-> Undetectable AI Interview Assistant that gives real-time answers and feedback  
-**Tech:** Electron • React • TypeScript • Tailwind • Gemini API  
+> Undetectable AI Interview Assistant for Real-time Answers & Instant Feedback  
+**Stack:** Electron • React • TypeScript • Tailwind • Gemini API  
 
 #### ⚡ [AppiloAI](https://github.com/tejass21)
-> AI-powered Code Editor + Terminal + Live Preview — all in the browser  
-**Tech:** React • TypeScript • Supabase • BrowserFS • Xterm.js  
+> AI-powered Code Editor + Terminal + Preview all in the Browser  
+**Stack:** React • TypeScript • BrowserFS • Xterm.js • Supabase  
 
 #### 💊 Health Plus Software
-> Hospital Management System used by 100+ hospitals  
-**Tech:** Java • MySQL • React  
+> Hospital Management System deployed across 100+ hospitals  
+**Stack:** Java • MySQL • React  
 
 ---
 
-### 🧬 Currently Exploring  
-- 🤖 Cloudless AI app builders  
-- 🧩 Real-time collaboration tools for developers  
-- 🪄 AI-first product design and UX  
+### 🪄 Currently Exploring  
+- 🤖 AI-powered app builders (no cloud dependency)  
+- 🧩 Real-time AI collaboration systems  
+- 🧬 Advanced UX for developer tools  
 
 ---
 
@@ -54,10 +56,6 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tejass21&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tejass21&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tejass21&theme=radical" />
 </p>
 
 ---
@@ -73,4 +71,4 @@
 
 ---
 
-<p align="center">⭐ “Turning ideas into intelligent software that empowers people.”</p>
+<p align="center">⭐️ “Turning ideas into intelligent software that empowers people.”</p>

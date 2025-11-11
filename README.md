@@ -1,6 +1,6 @@
 <!-- Profile README for Tejas Bachute (@tejass21) -->
 
-<h1 align="center">✨ Hey, I'm <a href="https://github.com/tejass21">Tejas Bachute</a> 👋</h1>
+<h1 align="center">✨ Hey, I'm <a href="https://github.com/tejass21">Tejas</a> 👋</h1>
 
 <h3 align="center">🚀 Software Engineer | 💡 AI Builder | 🧠 Founder of MriloAI & DesierAI</h3>
 

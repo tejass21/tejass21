@@ -1,63 +1,74 @@
-# 👋 Hi, I'm Tejas Bachute
+<!-- Profile README for Tejas Bachute (@tejass21) -->
 
-🚀 **Software Engineer | Founder of MriloAI | Building the Future of AI-Powered Development**
+<h1 align="center">✨ Hey, I'm <a href="https://github.com/tejass21">Tejas Bachute</a> 👋</h1>
 
-I'm passionate about creating intelligent software that empowers developers and businesses.  
-Currently building **DesierAI**, an undetectable AI assistant for interviews, and **AppiloAI**, an AI-powered coding platform that integrates live code editing, terminal access, and previews — all inside the browser.
+<h3 align="center">🚀 Software Engineer | 💡 AI Builder | 🧠 Founder of MriloAI & DesierAI</h3>
 
----
-
-## 💼 About Me
-
-- 🧠 Experienced in **React, TypeScript, Node.js, Supabase, and Gemini API**  
-- 💻 Built and sold **Health Plus Software Solutions** to 100+ hospitals during college  
-- 👨‍💼 Founder of **MriloAI** — your personal AI coding assistant  
-- ⚙️ Worked as **Software Engineer at Databutton**  
-- 🎓 BCA graduate from **Solapur University**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF7E1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+💻;Building+AI+Tools+that+Empower+Developers+⚡;Founder+of+MriloAI+and+DesierAI+🚀;Lifelong+Learner+🌱" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🧩 Featured Projects
-
-### 🧠 [DesierAI](https://desier.in/)
-AI-powered interview assistant — real-time answers, instant feedback, and undetectable performance.  
-**Tech:** Electron, TypeScript, Vite, React, Tailwind, Gemini API
-
-### ⚡ [AppiloAI](https://github.com/tejass21)
-AI-powered coding platform combining **BrowserFS**, **Xterm.js**, and **LiveCodes** for a complete in-browser dev experience.  
-**Tech:** React, Vite, TypeScript, Tailwind, Supabase
-
-### 💊 [Health Plus Software Solutions](#)
-Hospital management system for OPD, IPD, and Radiology billing, deployed in 100+ hospitals.  
-**Tech:** Java, MySQL, React
+### 💫 About Me  
+- 🧠 Full Stack Developer (React + TypeScript + Node + Supabase)  
+- 🚀 Founder of **[MriloAI](#)** and **[DesierAI](https://desier.in)**  
+- 🧩 Building **AppiloAI** — an AI-powered coding platform with terminal + live preview  
+- 💬 Love working with **AI APIs, BrowserFS, Gemini, and modern React stacks**  
+- 🎓 BCA Graduate | Former **Software Engineer at Databutton**  
+- 🏆 Built & sold **Health Plus Software Solutions** to 100+ hospitals  
 
 ---
 
-## 🧠 Skills
+### 🧰 Tech Stack  
 
-**Frontend:** React.js, TypeScript, Vite, Tailwind CSS  
-**Backend:** Node.js, Supabase, Firebase  
-**AI APIs:** Gemini API, OpenAI API  
-**Tools:** Git, Cursor, VS Code, Xterm.js  
-**Other:** Electron, BrowserFS, Chart.js  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,tailwind,html,css,js,git,github,supabase,firebase,vite,electron,figma&theme=light" />
+</p>
 
 ---
 
-## 🌱 What I'm Working On
+### ⚙️ Projects  
 
-- Improving **DesierAI** for enterprise-grade interviews  
-- Expanding **AppiloAI** with real-time AI debugging and collaboration features  
-- Exploring **AI-powered app builders** that run without cloud dependency
+#### 🧠 [DesierAI](https://desier.in)
+> Undetectable AI Interview Assistant for Real-time Answers & Instant Feedback  
+**Stack:** Electron • React • TypeScript • Tailwind • Gemini API  
+
+#### ⚡ [AppiloAI](https://github.com/tejass21)
+> AI-powered Code Editor + Terminal + Preview all in the Browser  
+**Stack:** React • TypeScript • BrowserFS • Xterm.js • Supabase  
+
+#### 💊 Health Plus Software
+> Hospital Management System deployed across 100+ hospitals  
+**Stack:** Java • MySQL • React  
 
 ---
 
-## 📫 Connect With Me
-
-- 🌐 [Portfolio](https://desier.in/)  
-- 💼 [LinkedIn](https://linkedin.com/in/tejas-bachute)  
-- 🐦 [Twitter](https://x.com/tejass21)  
-- ✉️ Email: tejasbachute@gmail.com  
+### 🪄 Currently Exploring  
+- 🤖 AI-powered app builders (no cloud dependency)  
+- 🧩 Real-time AI collaboration systems  
+- 🧬 Advanced UX for developer tools  
 
 ---
 
-⭐️ *“Building software that thinks, learns, and empowers.”*
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tejass21&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tejass21&theme=radical" />
+</p>
+
+---
+
+### 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/tejas-bachute"><img src="https://img.shields.io/badge/LinkedIn-Tejas%20Bachute-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="https://x.com/tejass21"><img src="https://img.shields.io/badge/Twitter-@tejass21-1DA1F2?logo=x&style=for-the-badge" /></a>
+  <a href="mailto:tejasbachute@gmail.com"><img src="https://img.shields.io/badge/Email-tejasbachute%40gmail.com-red?logo=gmail&style=for-the-badge" /></a>
+  <a href="https://desier.in/"><img src="https://img.shields.io/badge/Website-desier.in-0EF7E1?style=for-the-badge" /></a>
+</p>
+
+---
+
+<p align="center">⭐️ “Turning ideas into intelligent software that empowers people.”</p>

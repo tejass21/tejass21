@@ -5,7 +5,7 @@
 <h3 align="center">🚀 Software Engineer | 💡 AI Builder | 🧠 Founder of MriloAI & DesierAI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF7E1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+💻;Building+AI+Tools+that+Empower+Developers+⚡;Founder+of+MriloAI+and+DesierAI+🚀;Lifelong+Learner+🌱" alt="Typing SVG" />
+  <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF7E1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+💻;Building+AI+Tools+that+Empower+Developers+⚡;Founder+of+MriloAI+and+DesierAI+🚀;Lifelong+Learner+🌱" alt="Typing SVG" /> -->
 </p>
 
 ---
